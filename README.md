@@ -21,4 +21,3 @@ This project analyzes bike purchase trends using demographic data to uncover pat
    ## Files
 - `Bike_Purchase_Analysis.xlsx`: The Excel file with the dashboard.
 - `images/`: Screenshots of the dashboard and visualizations.
-- [Dashboard]([https://github.com/user/repository/blob/main/path-to-image.png](https://github.com/Oseleadeoye/Bike-Purchase-Analysis-/blob/main/images/Bike%20sales%20dashboard.png))
