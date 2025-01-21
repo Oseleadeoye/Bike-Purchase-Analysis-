@@ -16,7 +16,7 @@ This project analyzes bike purchase trends using demographic data to uncover pat
 ## How to Use
 1. Open the `Bike_Purchase_Analysis.xlsx` file.
 2. Navigate to the "Dashboard" worksheet.
-3. Use the slicers to filter data by region, gender, or age bracke
+3. Use the slicers to filter data by region, gender, or age bracket
 
    ## Files
 - `Bike_Purchase_Analysis.xlsx`: The Excel file with the dashboard.
